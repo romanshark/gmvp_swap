@@ -1,0 +1,6 @@
+overrideExisting: true
+schema: 'https://api.thegraph.com/subgraphs/name/baseswapfi/v3-base'
+generates:
+  ./src/graphql/thegraph/schema.graphql:
+    plugins:
+      - schema-ast

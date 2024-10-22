@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./database/*"]
+    }
+  },
+  "exclude": ["node_modules", "medical-frontend", "erp-frontend"]
+}

@@ -1,0 +1,208 @@
+{
+  "name": "BaseSwap Default List",
+  "timestamp": "2023-08-01T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["baseswap", "default"],
+  "tokens": [
+    {
+      "name": "BaseSwap Token",
+      "symbol": "BSWAP",
+      "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9.png"
+    },
+    {
+      "name": "Base X",
+      "symbol": "BSX",
+      "address": "0xd5046B976188EB40f6DE40fB527F89c05b323385",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0xd5046B976188EB40f6DE40fB527F89c05b323385.png"
+    },
+    {
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "DAI Stablecoin Token",
+      "symbol": "DAI",
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Yield Farming Index",
+      "symbol": "YFX",
+      "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "GMD Protocol",
+      "symbol": "GMD",
+      "address": "0xcd239e01c36d3079c0daef355c61cff591c40db1",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "GND Protocol",
+      "symbol": "GND",
+      "address": "0xfb825e93822dd971ebdfdb2180a751958dbd5e16",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+  
+    {
+      "name": "Axelar Wrapped Bitcoin",
+      "symbol": "axlWBTC",
+      "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": ""
+    },
+
+    {
+      "name": "BlazeBot",
+      "symbol": "BLAZE",
+      "address": "0x37DEfBC399e5737D53Dfb5533d9954572F5B19bf",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": ""
+    },
+    {
+      "name": "Unidex Exchange",
+      "symbol": "UNIDX",
+      "address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "El Dorado Exchange",
+      "symbol": "EDE",
+      "address": "0x0A074378461FB7ed3300eA638c6Cc38246db4434",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "USD+",
+      "symbol": "USD+",
+      "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "DAI+",
+      "symbol": "DAI+",
+      "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Basin Protocol",
+      "symbol": "BASIN",
+      "address": "0x4788de271F50EA6f5D5D2a5072B8D3C61d650326",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Ogre",
+      "symbol": "OGRE",
+      "address": "0xAB8a1c03b8E4e1D21c8Ddd6eDf9e07f26E843492",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "axlUSDC",
+      "symbol": "axlUSDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "Arbidex",
+      "symbol": "ARX",
+      "address": "0x58Ed4FD0C3d930b674BA50a293f03ef6cD7dE7a3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x58Ed4FD0C3d930b674BA50a293f03ef6cD7dE7a3.png"
+    },
+    {
+      "name": "USDC Stablecoin",
+      "symbol": "USDC",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://baseswap.fi/images/tokens/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
+    },
+    {
+      "name": "DOLA USD Stablecoin",
+      "symbol": "DOLA",
+      "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "18"
+    },
+    {
+      "name": "MAI Stablecoin ",
+      "symbol": "MAI",
+      "address": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    }, 
+    {
+      "name": "BullRun",
+      "symbol": "BULLRUN",
+      "address": "0x1A9132ee02d7E98e51b7389D2e7BB537184867Aa",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}

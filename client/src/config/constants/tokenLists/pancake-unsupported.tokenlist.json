@@ -1,0 +1,259 @@
+{
+  "name": "BaseSwap Unsupported List",
+  "timestamp": "2021-01-05T20:47:02.923Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": ["pancake", "unsupported"],
+  "tokens": [
+    {
+      "name": "TOSHE", 
+      "symbol": "TOSHE", 
+      "address": "0xf28A03CEA238A709ebEb1115E977506B16805A2A", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "Fake BSWAP", 
+      "symbol": "FAKEBSWAP", 
+      "address": "0xfE524D49CAcAE91008fBa1c54f3A7C3eE3b1A4CF", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BASE", 
+      "symbol": "BASE", 
+      "address": "0x1aA3e02A5CaB1Dc83C3696688618B776FCF6260c", 
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "name": "MAG", 
+      "symbol": "MAG", 
+      "address": "0x7C89281c9D54Dd62A3Bb28CbAfa5f699e8dcA5db", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "COINBASE", 
+      "symbol": "COINBASE", 
+      "address": "0x5f8E8D5fC1d2376393a75bb2A69FBf5b086861C5", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "FRIEND", 
+      "symbol": "FRIEND", 
+      "address": "0xED7a453F35A1B49f3514Bc7C6558f7510D4f93Eb", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BASO", 
+      "symbol": "BASO", 
+      "address": "0x627b6d42321e8A2e60225f98f3d6ba4DbED3bADf", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "SHARD", 
+      "symbol": "SHARD", 
+      "address": "0xE8dAf9d00b7bbCE291c054A34A57CdEEC87dfCA4", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BASED", 
+      "symbol": "BASED", 
+      "address": "0x51539314ED1AB30c7D810759CeD7607ed4880f1D", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BB", 
+      "symbol": "BB", 
+      "address": "0x6d201368a8578aF4eEC5fA4d762803A8e7CD24a1", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "DOGE", 
+      "symbol": "DOGE", 
+      "address": "0x9452F968450a8e190747Aeec8aA38e5558FA6334", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BTD", 
+      "symbol": "BTD", 
+      "address": "0xb1fEECC30438097105201F0917b71aC2aA7d5208", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "PUNK", 
+      "symbol": "PUNK", 
+      "address": "0xF28DD53048be9982DbD19EAcDA23e73A2aa1734A", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BTD1", 
+      "symbol": "BTD1", 
+      "address": "0x3541dF3Bf048E0761FAbee131b9E2f8153277d7E", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BTD2", 
+      "symbol": "BTD2", 
+      "address": "0x14ef095d4088abff5106a2cdea90a4cb07680ec8", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BTD3", 
+      "symbol": "BTD3", 
+      "address": "0x94528733c6fe6015a08d41e04274ca4a1f05f0df", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BTD4", 
+      "symbol": "BTD4", 
+      "address": "0x009741c8f605d5adf9cc5cf247e41633e796a688", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BTD5", 
+      "symbol": "BTD5", 
+      "address": "0xbbeb310218aebbcb07996e8190c8348bafd2535a", 
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "name": "FAKE BITCOIN", 
+      "symbol": "FAKEBITCOIN", 
+      "address": "0x08938964266bbE2c29BDb08acABa582A07d31c36", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "FAKE ETHEREUM", 
+      "symbol": "FAKEETHEREUM", 
+      "address": "0x86f801d9f73c5804ef5498d6754fd3df1a8f8482", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "DACKIE ", 
+      "symbol": "DACKIE", 
+      "address": "0x92822fBc8a911EBEC14DDEe83371c0d78A8C4173", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "X ", 
+      "symbol": "X", 
+      "address": "0x1291d3A6E69a70eBA18bA1787C6A1257Cd3D972F", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "Scam BaseX", 
+      "symbol": "SCAM BASEX", 
+      "address": "0xe6A82da9D86A2567d863Efd97148432CB00B9538", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+   
+    {
+      "name": "Fake DOGE", 
+      "symbol": "DOGE", 
+      "address": "0xe7C6414cE4ce61D4533860F14AF52dD3A72efd2c", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "Fake PEPE", 
+      "symbol": "PEPE", 
+      "address": "0x55ED0a35356d63A6689989858D3BbeC3aE6625e3", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "CHEEMS", 
+      "symbol": "CHEEMS", 
+      "address": "0xE9BfBD154c41f52C521eD456E6911B2d7f7011A3", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "Scam BSX", 
+      "symbol": "SCAM BSX", 
+      "address": "0x0eBfE5CD917Ff94bbD0ee456FAA1A75fbB768DCc", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "Scam BSX", 
+      "symbol": "SCAM BSX", 
+      "address": "0xE24728A1f31D6ccC8faA95Db93989dE48Fb4a037", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "Scam Coinbase", 
+      "symbol": "SCAM COINBASE", 
+      "address": "0x84876F4316C018d8C200E3C890d0eDe620325172", 
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "name": "Friend Scam", 
+      "symbol": "SCAM FRIEND", 
+      "address": "0xe7662E9106fDeAA3C32ce27d56C35bd029B9D546", 
+      "chainId": 8453,
+      "decimals": 18
+    },
+    {
+      "name": "Scam Shares", 
+      "symbol": "SCAM SHARES", 
+      "address": "0x21a582ed0f221ef1a4f3bed8816d68121107892e", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "BlueRock", 
+      "symbol": "BLRCK", 
+      "address": "0xbbCa4D84891810E1f937a35ea3A63914e92E448c", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "Friend", 
+      "symbol": "FRIEND", 
+      "address": "0x556E0027a04A0285b259e1063f180F1a37006903", 
+      "chainId": 8453,
+      "decimals": 18
+    }, 
+    {
+      "name": "Friend.tech", 
+      "symbol": "FRIEND", 
+      "address": "0x05567B7D4F2eB9556904b7Fc429F5A2D33004B0D", 
+      "chainId": 8453,
+      "decimals": 18
+    }
+
+
+    
+    
+
+    
+  ]
+}

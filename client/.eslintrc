@@ -1,0 +1,64 @@
+{
+  "env": {
+    "es6": true,
+    "browser": true,
+    "jest": true
+  },
+  "plugins": ["lodash"],
+  "extends": ["@pancakeswap/eslint-config-pancake", "plugin:react/jsx-runtime", "plugin:@next/next/recommended"],
+  "rules": {
+    "@next/next/no-img-element": 0,
+    "@next/next/no-html-link-for-pages": "off", 
+    "@typescript-eslint/no-shadow": "off",
+    "@typescript-eslint/no-unused-vars": "off", 
+
+    "import/no-unresolved": 0,
+    "react/self-closing-comp": "off", 
+    "no-console": ["warn", { "allow": ["info", "warn", "error", "debug"] }],
+    "no-plusplus": 0,
+    "prefer-destructuring": ["off", { "object": true, "array": false }],
+    "no-underscore-dangle": 0,
+    "lodash/import-scope": [2, "method"],
+    "no-sparse-arrays": 0,
+    "import/no-duplicates": "off", 
+    "react/no-array-index-key": "warn", 
+    "react/jsx-curly-brace-presence": "off", 
+    "jsx-a11y/click-events-have-key-events": "off", 
+    "no-restricted-globals": "off", 
+    "object-shorthand": "off", 
+    "react/jsx-boolean-value": "off", 
+    "no-await-in-loop": "off", 
+    "no-restricted-syntax": "off",  
+    "prefer-template": "warn", 
+    "no-restricted-properties": "off", 
+    "prefer-const": "off", 
+    "eqeqeq": "off", 
+    "react-hooks/exhaustive-deps": [
+      "warn",
+      {
+        "additionalHooks": "(useFastRefreshEffect|useSlowRefreshEffect)"
+      }
+    ],
+    // Start temporary rules
+    // These rules are here just to keep the lint error to 0 during the migration to the new rule set
+    // They need to be removed and fixed as soon as possible
+    "@typescript-eslint/ban-ts-comment": [1, { "ts-ignore": false, "ts-nocheck": false }],
+    "@typescript-eslint/no-use-before-define": 0,
+    "jsx-a11y/no-static-element-interactions": "off", 
+    "spaced-comment": "off",
+    "react/no-unescaped-entities": "off", 
+    "import/order": "off", 
+    "@typescript-eslint/explicit-module-boundary-types": 0,
+    "@typescript-eslint/no-explicit-any": 0,
+    "radix": 0,
+    "react/no-unknown-property": "off",
+    "import/no-extraneous-dependencies": 0,
+    "jsx-a11y/media-has-caption": 0,
+    // Exchange
+    "no-param-reassign": ["error", { "props": true, "ignorePropertyModificationsFor": ["state", "memo"] }],
+    "react/require-default-props": 0,
+    "no-nested-ternary": 0,
+    "max-classes-per-file": 0
+    // End temporary rules
+  }
+}
