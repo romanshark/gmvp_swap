@@ -18,7 +18,7 @@ export const FALLBACK_URLS = {
     // "Unsafe" URLs
     baseChain.rpcUrls.default,
     'https://base-mainnet.blastapi.io/b5a802d8-151d-4443-90a7-699108dc4e01',
-    'https://svc.blockdaemon.com/base/mainnet/native?apiKey=',
+    'https://svc.blockdaemon.com/base/mainnet/native?',
   ],
   [ChainId.BASE_GOERLI]: [
     // "Safe" URLs
@@ -26,7 +26,7 @@ export const FALLBACK_URLS = {
     // "Unsafe" URLs
     baseGoerli.rpcUrls.default,
     'https://base-goerli.blastapi.io/b5a802d8-151d-4443-90a7-699108dc4e01',
-    'https://svc.blockdaemon.com/base/testnet/native?apiKey=',
+    'https://svc.blockdaemon.com/base/testnet/native?',
   ],
 }
 
